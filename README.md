@@ -1,4 +1,8 @@
 # SNPsitTree
+
+Form snp vcf file to snp sequence file, Used to construct phylogenetic trees
+
+
 ## install 
 ```
 git clone git@github.com:zhongxiangSu/SNPsitTree.git
