@@ -10,6 +10,17 @@ git clone git@github.com:zhongxiangSu/SNPsitTree.git
 cd SNPsitTree
 python setup.py install
 ```
+## positional arguments:
+```  
+species_name_and_work_file:
+Species name and work file
+Chr_name_list_file:
+Chromosome name list file
+reference_genome:
+Reference genome fasta file
+#options:
+  -h, --help            show this help message and exit
+```
 ## sample_file
 
 #### species_name_and_work_file
